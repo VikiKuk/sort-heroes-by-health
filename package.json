@@ -1,0 +1,28 @@
+{
+  "name": "sort-heroes-by-health",
+  "version": "1.0.0",
+  "main": "src/sortHeroes.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikiKuk/sort-heroes-by-health.git"
+  },
+  "author": "Veronika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikiKuk/sort-heroes-by-health/issues"
+  },
+  "homepage": "https://github.com/VikiKuk/sort-heroes-by-health#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "jest": "^30.0.3"
+  },
+  "dependencies": {
+    "core-js": "^3.43.0"
+  }
+}
