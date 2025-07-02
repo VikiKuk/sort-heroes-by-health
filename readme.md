@@ -1,0 +1,1 @@
+![CI](https://github.com/VikiKuk/sort-heroes-by-health/actions/workflows/node.js.yml/badge.svg)
